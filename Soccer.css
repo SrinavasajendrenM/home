@@ -1,0 +1,44 @@
+Head
+{
+	background-color: Green;
+}
+body
+{
+	color: Ivory;
+	background-color: ForestGreen;
+	text-align: Center;
+	font: Veranda;
+}
+a
+{
+	Color: Silver;
+}	
+ol
+{
+	width: 25%;
+	margin: auto;
+}
+.Headings
+{
+	Color: LemonChiffon;
+	font-size: 32px;
+	background-color: Lime;
+}
+h1
+{
+	Color: Ivory;
+	font-size: 40px;
+}
+p
+{
+	text-align: Justify;
+}
+#Top
+{
+	text-align:Center
+}
+h1
+{
+	background-color:lime;
+}
+
