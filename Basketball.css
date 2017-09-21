@@ -1,0 +1,28 @@
+h1
+{
+	background-color: Orange;
+	font-size:32px;
+	color: Black;
+}
+h2,h3
+{
+	background-color: Orange;
+}
+html
+{
+	text-align:center;
+	background-color:#ff4000;   /*This colour is a dark orangish Red*/
+}
+ol
+{
+	width: 50%;
+	margin: auto;
+}
+#Michael
+{
+	color: Gold;
+}
+p
+{
+	font-size:18px
+}
